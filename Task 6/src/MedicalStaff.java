@@ -8,6 +8,6 @@ public abstract class MedicalStaff {
         this.department = department;
         this.hours = hours;
     }
-    
+
     abstract void performDuty();
 }
